@@ -5,7 +5,8 @@
   "keywords"      : ["model", "view", "controller", "router", "server", "client", "browser"],
   "repo"          : "jashkenas/backbone",
   "dependencies"  : {
-    "virtru-components/underscore"  : "*"
+    "virtru-components/underscore"  : "*",
+    "virtru-components/jquery-pack"  : "*"
   },
   "main"          : "backbone.js",
   "scripts"       : ["backbone.js"],
