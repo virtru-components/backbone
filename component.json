@@ -6,7 +6,7 @@
   "repo"          : "jashkenas/backbone",
   "dependencies"  : {
     "virtru-components/underscore"  : "1.4.4",
-    "virtru-components/jquery-pack-fmw"  : "0.0.1"
+    "virtru-components/jquery-pack-fmw"  : "0.0.3"
   },
   "main"          : "backbone.js",
   "scripts"       : ["backbone.js"],
